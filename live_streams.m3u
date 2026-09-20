@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="8085212408" group-title="Scottish Premiership",Scottish Premiership: Celtic vs Rangers [1st half]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+https://grok3.hereisman.net/playlist/56790/pukside1/caxi
+#EXTINF:-1 tvg-id="8085376432" group-title="Championship",Championship: Wolverhampton vs West Bromwich Albion [1st half]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+https://grok3.hereisman.net/playlist/56791/purplelionenergy90/caxi
+#EXTINF:-1 tvg-id="8084839112" group-title="Serie A",Serie A: Fiorentina vs SSC Napoli [42']
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+https://grok3.hereisman.net/playlist/56793/stonesparkmountain95/caxi
